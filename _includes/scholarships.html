@@ -1,0 +1,29 @@
+{% assign scholarships = site.data.data.scholarships %}
+{% if scholarships %}
+<section class="section scholarships-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
+    </span>
+    Scholarships Awards
+  </h2>
+
+  {% for awards in scholarships %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="title">{{ awards.title }}</h3>
+        <div class="time">{{ awards.time }}</div>
+      </div><!--//upper-row-->
+      <div class="funder">{{ awards.funder }}</div>
+    </div><!--//meta-->
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
