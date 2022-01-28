@@ -27,6 +27,13 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
+    
+    programming:
+      - idiom: C/C++
+      - idiom: Rust
+      - idiom: Python
+      - idiom: Java
+        
 
     languages:
       - idiom: Korean
