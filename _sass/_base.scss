@@ -233,6 +233,23 @@ p {
             margin-bottom: 15px;
         }
     }
+	
+    .experiences-section, .scholarships-section {
+        .item {
+            margin-bottom: 30px;
+        }
+    }
+    .scholarships-title {
+        color: $text-color;
+        font-size: 16px;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 500;
+    }
+    .funder {
+        margin-bottom: 10px;
+        color: $text-grey;
+    }
 }
 
 
