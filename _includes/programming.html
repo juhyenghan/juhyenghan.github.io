@@ -1,5 +1,5 @@
-{% assign languages = site.data.data.sidebar.programming %}
-{% if programming %}
+{% assign programmings = site.data.data.sidebar.programming %}
+{% if programmings %}
 <div class="programming-container container-block">
 
   <h2 class="container-block-title">
@@ -7,10 +7,10 @@
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for p in programming %}
+    {%for programming in programmings %}
     <li>
-      {{ p.idiom }}
-      <span class="lang-desc">({{ p.level }})</span>
+      {{ programming.idiom }}
+      <span class="lang-desc">({{ programming.level }})</span>
     </li>
     {% endfor %}
   </ul>
