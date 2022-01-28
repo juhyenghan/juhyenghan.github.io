@@ -31,9 +31,8 @@ sidebar:
     programming:
       - idiom: C/C++
       - idiom: Rust
-      - idiom: Python
-      - idiom: Java
-        
+      - idiom: x86 Assembly
+      - idiom: Python    
 
     languages:
       - idiom: Korean
