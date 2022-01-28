@@ -129,9 +129,20 @@ publications:
         conference: 14th USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2017
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Programming Language Skills
 
     toolset:
+      - name: C/C++ language
+        level: 98%
+
+      - name: Rust language
+        level: 80%
+
+      - name: Python language
+        level: 80%
+    
+    title: Proficiency in Technologies
+        
       - name: Trusted Execution Environment (Intel SGX)
         level: 98%
         
@@ -141,14 +152,7 @@ skills:
       - name: High performance System Implementation (SIMD)
         level: 80%
         
-      - name: C/C++ language
-        level: 98%
-
-      - name: Rust language
-        level: 80%
-
-      - name: Python language
-        level: 80%
+      
 
 
 #footer: >
