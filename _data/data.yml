@@ -135,19 +135,6 @@ Scholarships:
 
 
 skills:
-    title: Programming Language Skills
-
-    toolset:
-      - name: C/C++ language
-        level: 98%
-
-      - name: Rust language
-        level: 80%
-
-      - name: Python language
-        level: 80%
-
-skills:
     title: Proficiency in Technologies
     
     toolset:
@@ -155,7 +142,7 @@ skills:
         level: 98%
         
       - name: Kernel-bypass Networking Implementation (DPDK)
-        level: 80%
+        level: 98%
 
       - name: High performance System Implementation (SIMD)
         level: 80%
