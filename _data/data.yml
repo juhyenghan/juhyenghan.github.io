@@ -48,22 +48,22 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I'm a Ph.D. candidate in the School of Electrical Engineering at KAIST.
+      I'm a Ph.D. candidate in the School of Electrical Engineering at KAIST (Advisor&#58; Dongsu Han).
       My research interests are network systems and cloud security.
       Especially, I'm passionate about designing secure and practical software by combining hardware-based security technologies.
 education:
-    - degree: Ph.D. in the School of Electrical Engineering 
+    - degree: Ph.D. in the School of Electrical Engineering
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2016 - 2022 (expected)
-      details: Advisor&#58; Dongsu Han
+#       details: Advisor&#58; Dongsu Han
     - degree: M.S. in the School of Electrical Engineering 
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2016 - 2018
-      details: Advisor&#58; Dongsu Han
+#       details: Advisor&#58; Dongsu Han
     - degree: B.S. in the School of Computing
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2012 - 2016
-      #details: |
+#       details: |
 # experiences:
 #     - role: Lead Developer
 #       time: 2015 - Present
@@ -142,7 +142,8 @@ skills:
         level: 80%
     
     title: Proficiency in Technologies
-        
+    
+    toolset:
       - name: Trusted Execution Environment (Intel SGX)
         level: 98%
         
