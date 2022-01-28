@@ -20,6 +20,7 @@ sidebar:
     github: sparkly9399
     telegram: # add your nickname without '@' sign
     gitlab:
+    graduation-cap: "https://scholar.google.co.kr/citations?user=0-Zx47kAAAAJ&hl=en"
     bitbucket:
     twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -34,15 +35,15 @@ sidebar:
       - idiom: English
         level: Professional
 
-    interests:
-      - item: Climbing
-        link:
+#     interests:
+#       - item: Climbing
+#         link:
 
-      - item: Snowboarding
-        link:
+#       - item: Snowboarding
+#         link:
 
-      - item: Cooking
-        link:
+#       - item: Cooking
+#         link:
 
 career-profile:
     title: About me
@@ -51,14 +52,14 @@ career-profile:
       My research interests are network systems and cloud security.
       Especially, I'm passionate about designing secure and practical software by combining hardware-based security technologies.
 education:
-    - degree: Ph.D. in the School of Electrical Engineering (Advisor&#58; Dongsu Han)
+    - degree: Ph.D. in the School of Electrical Engineering 
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2016 - 2022 (expected)
-      #details: |
-    - degree: M.S. in the School of Electrical Engineering (Advisor&#58; Dongsu Han)
+      details: Advisor&#58; Dongsu Han
+    - degree: M.S. in the School of Electrical Engineering 
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2016 - 2018
-      #details: |
+      details: Advisor&#58; Dongsu Han
     - degree: B.S. in the School of Computing
       university: Korea Advanced Institute of Science and Technology (KAIST)
       time: 2012 - 2016
@@ -133,15 +134,15 @@ skills:
     toolset:
       - name: Trusted Execution Environment (Intel SGX)
         level: 98%
-      
-      - name: C/C++ language
-        level: 98%
-
+        
       - name: Kernel-bypass Networking Implementation (DPDK)
-        level: 90%
+        level: 80%
 
       - name: High performance System Implementation (SIMD)
-        level: 90%
+        level: 80%
+        
+      - name: C/C++ language
+        level: 98%
 
       - name: Rust language
         level: 80%
