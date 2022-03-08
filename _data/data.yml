@@ -15,7 +15,7 @@ sidebar:
     email: juhyenghan@gmail.com
     phone: 
     website: #do not add http://
-    linkedin: juhyeng-han
+    linkedin: #juhyeng-han
     xing: 
     github: sparkly9399
     telegram: # add your nickname without '@' sign
@@ -34,12 +34,12 @@ sidebar:
       - idiom: x86 Assembly
       - idiom: Python    
 
-    languages:
-      - idiom: Korean
-        level: Native
+#     languages:
+#       - idiom: Korean
+#         level: Native
 
-      - idiom: English
-        level: Professional
+#       - idiom: English
+#         level: Professional
 
 #     interests:
 #       - item: Climbing
